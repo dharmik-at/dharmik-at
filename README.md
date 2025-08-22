@@ -4,11 +4,6 @@
 
 <h1 align="center">Hey! Thanks for stopping by 👋</h1>
 
-
-<p align="center">
-  <img src="https://badges.pufler.dev/visits/dharmik-at/dharmik-at" alt="visits badge">
-</p>
-
 ![Snake animation](https://github.com/dharmik-at/dharmik-at/blob/output/github-contribution-grid-snake-dark.svg)
 
 <h3 align="center">Git Stats</h3>
