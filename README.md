@@ -44,7 +44,7 @@
 <a href="https://leetcode.com/u/dharmikgohil/">Dharmik</a>'s Leetcode Stats
 </div>
 </br>
-<img src="https://leetcard.jacoblin.cool/dharmik-at?theme=dark&font=Carrois%20Gothic%20SC&ext=contest" alt="LeetCode Stats" width="500px">
+<img src="https://leetcard.jacoblin.cool/dharmikgohil?theme=dark&font=Carrois%20Gothic%20SC&ext=contest" alt="LeetCode Stats" width="500px">
               
 ## 😉 About Me
 
