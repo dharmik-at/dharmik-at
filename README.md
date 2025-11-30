@@ -1,3 +1,5 @@
+<h1 align="center">“ Personal Github : <a href="https://github.com/dharmikgohil">dharmikgohil</a> ”</h1>
+
 <!-- 🌊 Gradient Header with Typing -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hey!%20I'm%20Dharmik%20👋&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=fff" width="100%"/>
 
