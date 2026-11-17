@@ -2,7 +2,7 @@
 
 <p>Work account · For personal projects, see <a href="https://github.com/DharmikGohil"><b>@DharmikGohil</b></a></p>
 
-<img src="https://streak-stats.demolab.com/?user=dharmik-at&hide_border=true&theme=tokyonight&card_width=600&card_height=170" width="49%" align="top" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=dharmik-at&hide_border=true&background=1A1B27&stroke=3A2A2A&ring=FF5722&fire=FF3D00&currStreakNum=FFA726&currStreakLabel=FF7043&sideNums=FF9800&sideLabels=FFB74D&dates=A1887F&card_width=600&card_height=170" width="49%" align="top" alt="GitHub Streak" />
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="49%" align="top" alt="Random Dev Quote" />
 
 <a href="https://dharmikgohil.in"><img src="https://img.shields.io/badge/dharmikgohil.in-1a1b27?style=flat-square&logo=googlechrome&logoColor=white" height="24" alt="Website" /></a>
